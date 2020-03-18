@@ -6,9 +6,9 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Using A Light Sensor And Analog Inputs Experiment 2 ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
