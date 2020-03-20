@@ -42,36 +42,27 @@ In this experiment I learnt how fiddly breadboards are and wire connectors are. 
 
 This experiment could be the basis of a real world application such as most if not all portable music playing devices as well as electronic instruments this experiment however is much more rudimentary than any iPod or mp3 player but works on the same principle of push button play sound. 
 
-### Making A Pedestrain Crossing ###
+### Making A Pedestrain Crossing Experiment 11 ###
 
+![Image](LC.png)
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
+(The visual representation of a simplified version of a crosswalk light system )
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+The new thing in this experiment was how you need to double check the code for the project and triple check the wiring in the breadboard. I also learnt that you there is no limit to how long you can get a sting of code onto a button pressed. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as traffic systems is the obvious one but also the functions within video games. How a players button presses can triggers a sequences of events within a video game. 
 
-### Experiment name ###
+### Making A Random Dice Experiment 12 ###
 
-(Replace this with the experiment name)
+![Image](DC.png)
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
+(Dice rolling on breadboard)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was using the if function with the logic option was new to me but made sense when I start. The wiring within this project was awful. Everything had to be pushed in just enough and at just the right degree and it was horrible. They kept falling out and not sitting right so I had to tweak some of the placements within the breadboard. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as randomly generated encryptions within software security on a larger scale. 
 
