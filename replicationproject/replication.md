@@ -11,13 +11,38 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Thermal Detonator Kit
 
-(Insert URL to project)
+https://thesaberarmory.com/product/kr-x-or-td-diy-prop-fx-kit/
+And as seen built by Adam Savage in this video: https://www.youtube.com/watch?v=ZjpPgv9XtJA
 
-![Image](missingimage.png)
+![Image](astd.png)
+(Timestamp 15:56)
+This project is related to mine because in essence the kit involves creating a replica from Star Wars that makes a sound and lights up when the switch is activated. On the pure electric and basic principle level this is what I hope for my finale project to do.
+### Related project 2 ###
 
-This project is related to mine because (insert reasons here).
+Kill Mii: Portable Wii in an Altoids Tin
+
+https://www.youtube.com/watch?v=2VOLUOIwbP4
+Worklog: https://bitbuilt.net/forums/index.php?threads/kill-mii-altoids-tin-portable.1310/
+
+![Image](KMAT.png)
+(Timestamp 0:01) 
+
+This project relates to mine as the DIY approach and the concept of making what at the time was such a complex technology into something as small as an Altoids tin in fascinating. The DIY approach to design and manufacturing is compelling and how I plan to create my project. Do what you can with what you have and because for some reason you just have too.  
+
+### Related project 3 ###
+
+Hacking my arm prosthesis to output CV so that it plugs into my synth: Thought-controlled music!
+https://www.youtube.com/watch?v=qSKBtEBRWi4&t=72s
+
+![Image](PAS.png)
+(Timestamp 5:41)
+
+The idea of controlling a synthesiser with your brain blew my mind when I first saw the title. The aspects of this project that relates to mine is both the DIY aspect as well as the musical element. The musical element of being able to control a synthesiser with an arm prosthesis would be out of my reach currently but it could be an avenue of electronic music I could look further into. How the human body has been creating music since its birth and how into the modern era it is constantly evolving. 
+
+### Related project 4 ###
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -26,13 +51,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this I understood that certain things do certain things just because that’s what they do. For example a twist door knob means you push. However I did know that this innate understanding of objects was a part of a complex system of design called signifiers. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+Don Norman’s descriptions of how design has changed and shaped the world around us. This has changed my knowledge of how as a designer you interact with the process of design. How do you design for the human element, what signifiers do you embed into design to make sure a person knows how to use something. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to know more about how you can create more effective mapping within design and graphic design. How do you implement a natural feel to objects and graphics?  
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+The feedback and signifiers elements relate to the project as they are ideas in my project. The instant feedback from a tap is sound. This creates the interaction within my project. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
