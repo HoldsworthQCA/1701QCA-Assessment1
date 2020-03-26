@@ -39,7 +39,7 @@ This project relates to mine as the DIY approach and the concept of making what 
 Hacking my arm prosthesis to output CV so that it plugs into my synth: Thought-controlled music!
 https://www.youtube.com/watch?v=qSKBtEBRWi4&t=72s
 
-![Image](PAS.png)
+![Image](PAS.PNG)
 
 (Timestamp 5:41)
 
