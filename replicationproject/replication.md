@@ -40,6 +40,7 @@ Hacking my arm prosthesis to output CV so that it plugs into my synth: Thought-c
 https://www.youtube.com/watch?v=qSKBtEBRWi4&t=72s
 
 ![Image](PAS.png)
+
 (Timestamp 5:41)
 
 The idea of controlling a synthesiser with your brain blew my mind when I first saw the title. The aspects of this project that relates to mine is both the DIY aspect as well as the musical element. The musical element of being able to control a synthesiser with an arm prosthesis would be out of my reach currently but it could be an avenue of electronic music I could look further into. How the human body has been creating music since its birth and how into the modern era it is constantly evolving. 
