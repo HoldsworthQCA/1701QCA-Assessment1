@@ -87,7 +87,6 @@ How do we incorporate feedback into micro transactions that take place away from
 Creating more of a tactical experience using micro transactions within my project could make it more user friendly.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
-With alot of design work it is 
 
 With a lot of design work it is shown in the abstract without any context. Designers tend to gloss over the flaws or short coming of a design however Sullivan dismissed my ideas of how designers polish the journey of their designs.
 
