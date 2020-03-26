@@ -1,7 +1,6 @@
 # Assessment 1: Replication project
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Thermal Detonator Kit
@@ -114,41 +113,41 @@ Unseen here two cut outs of half circles from thinner cardboard where created. T
 ![Image](PRO4.jpg)
 The Microbit and bread board was added un the bridge to make sure there where spots it could get though. The idea to have the middle section of the cut-out holes be the grounding for the circuit was applied. This grounding was connected to switches by the underneath layer having aluminium foil applied. Aluminium foil covered the bottom hinge and extended out a hole down the bottom. This was then connected though the bottom of the circuit board underneath. It was then tested to make sure it worked. At this stage it just made a high sound when the left was pressed and a low sound when the right was. 
 
+### Coding ###
+
 ![Image](CV1.PNG)
 I thought this was too simple and added the acceleration value code to the note code. This addition created more of an interactive experience when the user was playing the bongos.  
 ![Image](CV2.PNG)
 
 ## Project outcome ##
 
-*Complete the following information.*
-
-### Project title ###
+### The Drunk Bongos ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The Drunk Bongos are a musical experiment. How can you turn one of humanity’s first instruments into something electronic and modern in a DIY environment? The target audience of The Drunk Bongos are for those bored quarantine and want to partake in an age-old tradition of making music.  
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](TV1.JPG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+![Image](SV.JPG)
 
-![Image](missingimage.png)
+Video of my roommate playing with the bongos. (Sorry for the poor audio quality) 
+https://www.youtube.com/watch?v=8aa-VMEHf9c
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+I felt the introduction of using the accelerometer that was built into the Microbit for pitch elevation was the most successful part of the project. It created a real sense of user interaction. The fabrication of the project could have been greatly improved. If it wasn’t in the middle of a pandemic laser cut wooden pieces could have greatly improved the quality of the end product.  
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+I approached this with a similar intent as project 2 and 3. The intent to see what a person can DIY because they can. I also wanted to create something fun and interactive like project 4. 
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+Digital imaging and prehistoric imagery: a new analysis of the Folkton Drums was read before starting this project. It was fascinating to discover how heavily decorated drums where found in modern day Britain dating back to Neolithic Era. I was fascinated by the idea of recreating something from human history and the drum became that idea.  Jones, Andrew Meirion, Andrew Cochrane, Chris Carter, Ian Dawson, Marta Díaz-Guardamino, Eleni Kotoula, and Louisa Minkin. “Digital Imaging and Prehistoric Imagery: a New Analysis of the Folkton Drums.” Antiquity 89, no. 347 (2015): 1083–95. https://doi.org/10.15184/aqy.2015.127.
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+This project could be extended into a whole band of electronic instruments. With different instruments interacting in different ways such as using light or moisture to detect variations.  This project could be used in physical therapy cases  to help coordination in the arms and hand. 
