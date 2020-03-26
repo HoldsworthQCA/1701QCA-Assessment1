@@ -92,19 +92,31 @@ The iterative proses of this project is relevant to my project. As the project d
 
 ## Interaction flowchart ##
 
-![Image](missingimage.png)
+![Image](IFC.png)
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+### Sketch Work ###
 
-*This should have quite a lot of information!*
+![Image](S1.png)
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+### Prototype Building ###
 
-![Image](missingimage.png)
+![Image](PRO1.jpg)
+The initial stages of circuit board and switch development. Testing to make sure the circuit was wired correctly. Show LEDs was added to the Microbit to make sure the circuit was running even if noise wasn’t being made. The first stages of making a switch out of aluminon foil and cardboard. 
 
-*Include screenshots of the code you have used.*
+![Image](PRO2.jpg)
+The initial base cut out of box cardboard; two of these where cut. The Microbit placed on the base to make sure there was enough room for everything. Small pieces of cardboard where cut out and glued together to create legs for over circuit board The second base plate had holes cut to create a top for the buttons to sit on.  
+
+![Image](PRO3.jpg)
+Unseen here two cut outs of half circles from thinner cardboard where created. These where then covered in duct tape to create black and shiny finish as well as create more stability with the cardboard. This was repeated to make a second button. A sheet of aluminium foil was hot glued to the back of one of the pedals. The bridge was coated in sheet of aluminium foil to create the second contacts on the board. However whilst doing this I hade the idea to make just one ground contact point both of the buttons as the wiring was getting to tangled and the share the same space any way. 
+
+![Image](PRO4.jpg)
+The Microbit and bread board was added un the bridge to make sure there where spots it could get though. The idea to have the middle section of the cut-out holes be the grounding for the circuit was applied. This grounding was connected to switches by the underneath layer having aluminium foil applied. Aluminium foil covered the bottom hinge and extended out a hole down the bottom. This was then connected though the bottom of the circuit board underneath. It was then tested to make sure it worked. At this stage it just made a high sound when the left was pressed and a low sound when the right was. 
+
+![Image](CV1.PNG)
+I thought this was too simple and added the acceleration value code to the note code. This addition created more of an interactive experience when the user was playing the bongos.  
+![Image](CV2.PNG)
 
 ## Project outcome ##
 
