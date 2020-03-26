@@ -15,8 +15,11 @@ Thermal Detonator Kit
 
 https://thesaberarmory.com/product/kr-x-or-td-diy-prop-fx-kit/
 And as seen built by Adam Savage in this video: https://www.youtube.com/watch?v=ZjpPgv9XtJA
-![Image](astd.png)
+
+![Image](astd.PNG)
+
 (Timestamp 15:56)
+
 This project is related to mine because in essence the kit involves creating a replica from Star Wars that makes a sound and lights up when the switch is activated. On the pure electric and basic principle level this is what I hope for my finale project to do.
 ### Related project 2 ###
 
@@ -25,7 +28,8 @@ Kill Mii: Portable Wii in an Altoids Tin
 https://www.youtube.com/watch?v=2VOLUOIwbP4
 Worklog: https://bitbuilt.net/forums/index.php?threads/kill-mii-altoids-tin-portable.1310/
 
-![Image](KMAT.png)
+![Image](KMAT.PNG)
+
 (Timestamp 0:01) 
 
 This project relates to mine as the DIY approach and the concept of making what at the time was such a complex technology into something as small as an Altoids tin in fascinating. The DIY approach to design and manufacturing is compelling and how I plan to create my project. Do what you can with what you have and because for some reason you just have too.  
