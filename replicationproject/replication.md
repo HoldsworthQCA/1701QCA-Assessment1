@@ -78,23 +78,21 @@ The feedback and signifiers elements relate to the project as they are ideas in 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-### Reading: Scott Sullivan, Prototyping Interactive Objects ###
-
 Before reading this chapter on microtransactions I never considered how important the small interactions with technology impact the broader things it does. 
 
 I learnt how the interplay of well-designed micro transactions and macro design create an enjoyable experience for the end user. The fact that simpler is often better when it comes to micro transactions especially when dealing with large scale use. The flow of micro transactions is the trigger that then follows if the rules of it have been filled, the user feedback and then it loops back on itself. 
 
 How do we incorporate feedback into micro transactions that take place away from physical and visual environments? 
 
-Creating more of a tactical experience using micro transactions within my project could make it more user friendly. 
+Creating more of a tactical experience using micro transactions within my project could make it more user friendly.
+
+### Reading: Scott Sullivan, Prototyping Interactive Objects ###
+With alot of design work it is 
+
+With a lot of design work it is shown in the abstract without any context. Designers tend to gloss over the flaws or short coming of a design however Sullivan dismissed my ideas of how designers polish the journey of their designs.
+
+ I learnt that the more you do something and actually take leaps to do you can create something just for the fun of learning.  
+The iterative proses of this project is relevant to my project. As the project does not have an end finished point it can also be added onto and improved from the first design we chose.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
