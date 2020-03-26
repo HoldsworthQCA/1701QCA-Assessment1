@@ -1,5 +1,9 @@
 # Assessment 1: Replication project
 
+![Image](V1.JPG)
+
+## Project Replicated ##
+The project that was chosen to be replicated was the Guitar found at  https://makecode.microbit.org/projects/guitar. This was chosen as I thought it would be interesting to create an electronic instrument. 
 ## Related projects ##
 
 ### Related project 1 ###
