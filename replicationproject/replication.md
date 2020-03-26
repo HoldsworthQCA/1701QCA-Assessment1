@@ -15,7 +15,6 @@ Thermal Detonator Kit
 
 https://thesaberarmory.com/product/kr-x-or-td-diy-prop-fx-kit/
 And as seen built by Adam Savage in this video: https://www.youtube.com/watch?v=ZjpPgv9XtJA
-
 ![Image](astd.png)
 (Timestamp 15:56)
 This project is related to mine because in essence the kit involves creating a replica from Star Wars that makes a sound and lights up when the switch is activated. On the pure electric and basic principle level this is what I hope for my finale project to do.
