@@ -62,9 +62,6 @@ https://www.youtube.com/watch?v=OZqBrKHT63o
 This project is extremly relevant to my project as it is intersection of creating old technolgy with new and diy music making. The replication of old music devices is a factor I have wanted to create in my own project by recreating one of mans first musical insturments in an electronic form. This project also has the DIY cardord aesthteics I wish to recreate.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -94,7 +91,6 @@ With a lot of design work it is shown in the abstract without any context. Desig
 The iterative proses of this project is relevant to my project. As the project does not have an end finished point it can also be added onto and improved from the first design we chose.
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](missingimage.png)
 
